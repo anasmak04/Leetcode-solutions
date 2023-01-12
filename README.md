@@ -17,7 +17,7 @@ Collections of my leetcode solutions implemented by java and typescript and java
 ---------------------------------------------------------------------------------------
 | # | Title | Solutions | Difficulty | Tag |
 |---|-------|----------|------------|-----|
-| 1 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)| [Java](./codes/Java/Leetcodes/src/main/Min%20Stack.java) & [Javascript](./codes/Javascript/Leetcodes/src/Min%20Stack.js) & [Typescript](./codes/Typescript/Leetcodes/src/Min%20stack.ts)| Medieum | Stack |
+| 1 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)| [Java](./codes/Java/Leetcodes/src/main/Min%20Stack.java) & [Javascript](./codes/Javascript/Leetcodes/src/Min%20Stack.js) & [Typescript](./codes/Typescript/Leetcodes/src/Min%20stack.ts)| Medium | Stack |
 
 
 
