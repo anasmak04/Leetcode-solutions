@@ -13,6 +13,11 @@ Collections of my leetcode solutions implemented by java and typescript and java
 | 2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./codes/Java/Leetcodes/src/main/Search%20in%20Rotated%20Sorted%20Array.java) & [Javascript](./codes/Javascript/Leetcodes/src/Search%20in%20Rotated%20Sorted%20Array.js) & [Typescript](./codes/Typescript/Leetcodes/src/Search%20in%20Rotated%20Sorted%20Array.ts) | Medium | Arrays, Binary search |
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./codes/Java/Leetcodes/src/main/Search%20Insert%20Position.java) & [Javascript](./codes/Javascript/Leetcodes/src/Search%20Insert%20Position.js) & [Typescript](./codes/Typescript/Leetcodes/src/Search%20Insert%20Position.ts)| Easy | Arrays, Binary search |
 
+## Stack
+---------------------------------------------------------------------------------------
+| # | Title | Solutions | Difficulty | Tag |
+|---|-------|----------|------------|-----|
+| 1 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)| [Java](./codes/Java/Leetcodes/src/main/Min%20Stack.java) & [Javascript](./codes/Javascript/Leetcodes/src/Min%20Stack.js) & [Typescript](./codes/Typescript/Leetcodes/src/Min%20stack.ts)| Medieum | Stack |
 
 
 
