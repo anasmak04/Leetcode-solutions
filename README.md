@@ -14,10 +14,11 @@ Collections of my leetcode solutions implemented by java and typescript and java
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./codes/Java/Leetcodes/src/main/Search%20Insert%20Position.java) & [Javascript](./codes/Javascript/Leetcodes/src/Search%20Insert%20Position.js) & [Typescript](./codes/Typescript/Leetcodes/src/Search%20Insert%20Position.ts)| Easy | Arrays, Binary search |
 | 4 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Javascript](./codes/Javascript/Leetcodes/src/Palindrome%20Number.js)| Easy | Arrays|
 
-## Stack
+## Collections 
 ---------------------------------------------------------------------------------------
 | # | Title | Solutions | Difficulty | Tag |
 |---|-------|----------|------------|-----|
 | 1 | [Min stack ](https://leetcode.com/problems/min-stack/)| [Java](./codes/Java/Leetcodes/src/main/Min%20Stack.java) & [Javascript](./codes/Javascript/Leetcodes/src/Min%20Stack.js) & [Typescript](./codes/Typescript/Leetcodes/src/Min%20stack.ts)| Medium | Stack |
 | 2 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | Stack |
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Java](./codes/Java/Leetcodes/src/main/Valid%20Parentheses.java) | Easy | Stack |
+| 4 | [remove vowels from a string](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | collections  |
