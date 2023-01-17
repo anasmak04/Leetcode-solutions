@@ -22,3 +22,4 @@ Collections of my leetcode solutions implemented by java and typescript and java
 | 2 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | Stack |
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Java](./codes/Java/Leetcodes/src/main/Valid%20Parentheses.java) | Easy | Stack |
 | 4 | [remove vowels from a string](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | collections  |
+| 5 | [Single Number](https://leetcode.com/problems/single-number/submissions/879923589/)| [Java](./codes/Java/Leetcodes/src/main/Single%20Number.java) | Easy | Set HashSet  |
