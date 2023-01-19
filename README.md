@@ -23,3 +23,4 @@ Collections of my leetcode solutions implemented by java and typescript and java
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Java](./codes/Java/Leetcodes/src/main/Valid%20Parentheses.java) | Easy | Stack |
 | 4 | [remove vowels from a string](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | collections  |
 | 5 | [Single Number](https://leetcode.com/problems/single-number/submissions/879923589/)| [Java](./codes/Java/Leetcodes/src/main/Single%20Number.java) | Easy | Set HashSet  |
+| 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Java](./codes/Java/Leetcodes/src/main/Length%20of%20Last%20Word.java) | Easy | ArrayList |
