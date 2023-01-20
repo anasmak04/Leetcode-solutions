@@ -13,3 +13,37 @@ class Solution {
 
     }
 }
+
+
+/// Other implementation using stack with peek
+
+class Solution {
+    public int lengthOfLastWord(String s) {
+     Stack<String> stack = new Stack<>();
+        String[]  words = s.split(" ");
+
+        for(String n : words){
+            stack.push(n);
+        }
+
+        return stack.isEmpty() ? 0 : stack.peek().length();
+
+    }
+}
+
+
+///// Other implementation using stack with pop
+
+class Solution {
+    public int lengthOfLastWord(String s) {
+     Stack<String> stack = new Stack<>();
+        String[]  words = s.split(" ");
+
+        for(String n : words){
+            stack.push(n);
+        }
+
+        return stack.isEmpty() ? 0 : stack.pop().length();
+
+    }
+}
