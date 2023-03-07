@@ -16,6 +16,8 @@
 | 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Java](./codes/Java/Leetcodes/src/main/Length%20of%20Last%20Word.java) | Easy |
 | 7 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./codes/Java/Leetcodes/src/main/sort%20colors.java) | Easy |
 | 8 | [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./codes/Java/Leetcodes/src/main/Contains%20Duplicate.java) | Easy |
+| 9 | [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./codes/Java/Leetcodes/src/main/Contains%20Duplicate.java) | Easy |
+| 9 | [ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./codes/Java/Leetcodes/src/main/valid-anagram.java) | Easy |
 
 
 
