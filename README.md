@@ -18,6 +18,11 @@
 | 8 | [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./codes/Java/Leetcodes/src/main/Contains%20Duplicate.java) | Easy |
 | 9 | [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./codes/Java/Leetcodes/src/main/Contains%20Duplicate.java) | Easy |
 | 9 | [ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./codes/Java/Leetcodes/src/main/valid-anagram.java) | Easy |
+| 10 | [ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy |
+| 11 | [ To Lower Case ](https://leetcode.com/problems/to-lower-case/)| [Java](./codes/Java/Leetcodes/src/main/To%20Lower%20Case.java) | Easy |
+
+
+
 
 
 
