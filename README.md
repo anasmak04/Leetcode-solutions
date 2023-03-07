@@ -20,6 +20,8 @@
 | 9 | [ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./codes/Java/Leetcodes/src/main/valid-anagram.java) | Easy |
 | 10 | [ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Java](./codes/Java/Leetcodes/src/main/Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy |
 | 11 | [ To Lower Case ](https://leetcode.com/problems/to-lower-case/)| [Java](./codes/Java/Leetcodes/src/main/To%20Lower%20Case.java) | Easy |
+| 12 | [ implement queue using stacks ](https://leetcode.com/problems/implement-queue-using-stacks/)| [Java](./codes/Java/Leetcodes/src/main/Implement%20Queue%20using%20Stacks.java) | Easy |
+| 13 | [ power of two  ](https://leetcode.com/problems/power-of-two/)| [Java](./codes/Java/Leetcodes/src/main/Power%20of%20Two.java) | Easy |
 
 
 
